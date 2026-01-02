@@ -15,10 +15,10 @@ Streamer, video editor & part-time debugger
 
 ## Dev-Core Mood
 
-Late nights, low lights  
-Lo-fi beats, dark synths, rain ambience   
-Surrounded by plushies with ancient lore  
-Tea gone cold. Still drinking it.
+- Late nights, low lights  
+- Lo-fi beats, dark synths, rain ambience   
+- Surrounded by plushies with ancient lore  
+- Tea gone cold. Still drinking it.
 
 ---
 
