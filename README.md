@@ -1,44 +1,31 @@
-# 👋 Hi, I'm Moxy!
+# Moxy
 
-Gamer meets code – game developer & machine learning enthusiast  
-Tinkering with `Unity`, `Python`, `C#`, and single-board chaos (Raspberry Pi)  
-Streamer, video editor & part-time debugger  
+I write code. Sometimes it works. Sometimes it documents the mistake.
 
----
+## What’s in here
+- CS studies, compressed into repositories  
+- Scripts, tools, and projects that started as “quick ideas”  
+- Experiments that either became useful or quietly educated me  
 
-## Languages & Tools
+## Manage expectations
+- Not everything is finished  
+- Not everything is clean  
+- Some things work suspiciously well  
 
-`C#` `Python` `Unity` `Docker` `Raspberry Pi`  
-*Trying to make it work™ since forever*
+## Tech, roughly
+- A lot of Python  
+- Automation, analysis, general tinkering  
+- If something is annoying, it gets automated  
 
----
+## Non-technical essentials
+- Tea is part of the workflow  
+- Plushys supervise code quality  
+- Neither has caused a bug so far  
 
-## Dev-Core Mood
+## Philosophy
+Simple code > clever code  
+Complexity is not an achievement  
+Comments are allowed  
 
-- Late nights, low lights  
-- Lo-fi beats, dark synths, rain ambience   
-- Surrounded by plushies with ancient lore  
-- Tea gone cold. Still drinking it.
-
----
-
-## About me
-
-- CTRL + Z is my religion  
-- I commit emotionally  
-- Bit of a night creature  
-- Keeps plushies on the desk. Some of them judge me.
-
----
-
-## Contact
-
-- Just scream `Moxy!` into the terminal  
-- Or don’t. I respect that.
-
----
-
-## GitLab Stats
-
-*Currently unavailable, but trust me! I code.*
-
+If you find something useful: good.  
+If not: also good.
